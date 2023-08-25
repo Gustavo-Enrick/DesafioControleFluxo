@@ -1,6 +1,14 @@
 package edu.dio.projeto;
 
 import java.util.Scanner;
+/*O código abaixo tem finalidade didática.
+ * O usuário deve informar dois números(parametro1 e parametro2)
+ * Será exibido através de um laço for os numeros obtidos pela 
+ * subtração do parametro2 pelo parametro1.
+ * P.S: Caso o parametro1 seja maior que o parametro2,será lançada uma excesão.
+ * @author  Gustavo Enrick
+ */
+
 
 public class Contador {
     public static void main(String[] args) {
